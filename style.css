@@ -1,0 +1,192 @@
+
+
+#scroll {
+background:url('http://down.jgaoxiao.com/Uploads/down/Article/52faddebcc025.jpg') no-repeat;
+background-size: cover;
+background-position:center;
+background-attachment: fixed;
+}
+
+body {
+font:15px/1.5 sans-serif;
+padding:0;
+margin:0;
+}
+
+header {
+background:white;
+min-height:130px;
+margin-top:0;
+margin-right:25px;
+margin-left:25px;
+padding-top:10px;
+}
+
+header a{
+color:gray;
+text-decoration:none;
+text-transform:uppercase;
+}
+
+header li{
+display:inline;
+padding:0 20px 0 20px;
+}
+
+.image {
+float:left;
+}
+
+header nav ul{
+float:right;
+margin-top:10px;
+}
+
+
+ul.ManuIndex {
+padding: 0;
+background-color:white;
+}
+
+ul.ManuIndex li {
+display: inline;
+float:right;
+margin: 0;
+}
+
+ul.ManuIndex li a {
+display: block;
+color: gray;
+padding: 10px;
+text-decoration: none;
+}
+
+ul.ManuIndex li a:hover:not(.active) {background-color: #003366; color:white;}
+
+ul.ManuIndex li a.active {background-color: #003366; color:white;}
+
+
+div.container {
+margin-top:15px;
+margin-left:25px;
+padding:15px;
+width:35%;
+overflow:hidden;
+border: 1px solid #ffffff;
+background:#000;
+opacity:0.5;
+text-transform: uppercase;
+color:white;
+}
+
+#box {
+margin-top:200px;
+margin-left:25px;
+margin-right:25px;
+overflow:hidden;
+background-color: white;
+border: 1px solid white;
+color:black;
+}
+
+div.Welcome {
+margin:5px;
+padding:0;
+float:left;
+width:600px;
+height:370px;
+overflow:hidden;
+border: 1px solid #f2f2f2;
+color:black;
+}
+
+h2 {
+margin:10px;
+padding:5px;
+overflow:hidden;
+background:#003366;
+color:white;
+}
+
+p {
+margin:5px;
+padding:10px;
+color:gray;
+text-align:justify;
+
+}
+
+.textcenter {
+text-align:center;
+}
+
+.Welcomeimage {
+margin:10px;
+width: 170px;
+height: 139px;
+float:left;
+border:1px solid #f2f2f2;
+}
+
+div.Assessment {
+margin:5px;
+float:left;
+width:300px;
+height:370px;
+overflow:hidden;
+border: 1px solid #f2f2f2;
+color:black;
+}
+
+div.Planning {
+margin:5px;
+padding:0;
+float:left;
+width:300px;
+height:370px;
+overflow:hidden;
+border: 1px solid #f2f2f2;
+color:black;
+}
+
+
+div.Exceptional {
+margin:5px;
+float:left;
+width:400px;
+height:600px;
+overflow:hidden;
+border: 1px solid white;
+color:black;
+}
+
+
+div.Donottake {
+margin:5px;
+float:left;
+width:400px;
+height:600px;
+overflow:hidden;
+border: 1px solid white;
+color:black;
+}
+
+div.Allyour {
+margin:5px;
+float:left;
+width:400px;
+height:600px;
+overflow:hidden;
+border: 1px solid white;
+color:black;
+}
+
+footer {
+margin:0 25px 0 25px;
+padding:30px;
+font-family:serif;
+text-transform: capitalize;
+background:#000;
+opacity:0.5;
+color:white;
+}
